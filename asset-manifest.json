@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/light-bootstrap-dashboard-react/static/css/main.30bfd188.chunk.css",
-    "main.js": "/light-bootstrap-dashboard-react/static/js/main.851ace55.chunk.js",
-    "main.js.map": "/light-bootstrap-dashboard-react/static/js/main.851ace55.chunk.js.map",
+    "main.css": "/light-bootstrap-dashboard-react/static/css/main.0ac26ec3.chunk.css",
+    "main.js": "/light-bootstrap-dashboard-react/static/js/main.9e3eca17.chunk.js",
+    "main.js.map": "/light-bootstrap-dashboard-react/static/js/main.9e3eca17.chunk.js.map",
     "runtime~main.js": "/light-bootstrap-dashboard-react/static/js/runtime~main.6b81f0f5.js",
     "runtime~main.js.map": "/light-bootstrap-dashboard-react/static/js/runtime~main.6b81f0f5.js.map",
-    "static/css/2.11200a24.chunk.css": "/light-bootstrap-dashboard-react/static/css/2.11200a24.chunk.css",
-    "static/js/2.60d9fc10.chunk.js": "/light-bootstrap-dashboard-react/static/js/2.60d9fc10.chunk.js",
-    "static/js/2.60d9fc10.chunk.js.map": "/light-bootstrap-dashboard-react/static/js/2.60d9fc10.chunk.js.map",
+    "static/css/2.94520893.chunk.css": "/light-bootstrap-dashboard-react/static/css/2.94520893.chunk.css",
+    "static/js/2.44b190f0.chunk.js": "/light-bootstrap-dashboard-react/static/js/2.44b190f0.chunk.js",
+    "static/js/2.44b190f0.chunk.js.map": "/light-bootstrap-dashboard-react/static/js/2.44b190f0.chunk.js.map",
     "index.html": "/light-bootstrap-dashboard-react/index.html",
-    "precache-manifest.f7eeb057edefe7bf77d67721aaa0f734.js": "/light-bootstrap-dashboard-react/precache-manifest.f7eeb057edefe7bf77d67721aaa0f734.js",
+    "precache-manifest.fd378b93e36ae689c18bb483d27f7b57.js": "/light-bootstrap-dashboard-react/precache-manifest.fd378b93e36ae689c18bb483d27f7b57.js",
     "service-worker.js": "/light-bootstrap-dashboard-react/service-worker.js",
-    "static/css/2.11200a24.chunk.css.map": "/light-bootstrap-dashboard-react/static/css/2.11200a24.chunk.css.map",
-    "static/css/main.30bfd188.chunk.css.map": "/light-bootstrap-dashboard-react/static/css/main.30bfd188.chunk.css.map",
-    "static/media/pe-icon-7-stroke.css": "/light-bootstrap-dashboard-react/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/css/2.94520893.chunk.css.map": "/light-bootstrap-dashboard-react/static/css/2.94520893.chunk.css.map",
+    "static/css/main.0ac26ec3.chunk.css.map": "/light-bootstrap-dashboard-react/static/css/main.0ac26ec3.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/light-bootstrap-dashboard-react/static/media/Pe-icon-7-stroke.dedf2698.svg",
     "static/media/face-3.jpg": "/light-bootstrap-dashboard-react/static/media/face-3.ce7a6b79.jpg",
-    "static/media/full-image-1.jpg": "/light-bootstrap-dashboard-react/static/media/full-image-1.9f2907be.jpg",
     "static/media/bootstrap.min.css": "/light-bootstrap-dashboard-react/static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/reactlogo.png": "/light-bootstrap-dashboard-react/static/media/reactlogo.9b864b36.png",
-    "static/media/sidebar-1.jpg": "/light-bootstrap-dashboard-react/static/media/sidebar-1.6be21e8a.jpg",
-    "static/media/sidebar-3.jpg": "/light-bootstrap-dashboard-react/static/media/sidebar-3.34535b95.jpg",
-    "static/media/sidebar-4.jpg": "/light-bootstrap-dashboard-react/static/media/sidebar-4.7bc259fd.jpg",
-    "static/media/sidebar-5.jpg": "/light-bootstrap-dashboard-react/static/media/sidebar-5.8336c4e9.jpg"
+    "static/media/sidebar-3.jpg": "/light-bootstrap-dashboard-react/static/media/sidebar-3.34535b95.jpg"
   }
 }
