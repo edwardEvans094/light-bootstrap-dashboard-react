@@ -32,7 +32,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path="/admin" render={props => <AdminLayout {...props} />} />
-      <Redirect from="/" to="/admin/boost" />
+      <Redirect from="*" to="/admin/boost" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")
