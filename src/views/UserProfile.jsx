@@ -39,7 +39,7 @@ class UserProfile extends Component {
         <Grid fluid>
           <Row>
             <Col md={8}>
-              <Card
+              {/* <Card
                 title="Edit Profile"
                 content={
                   <form>
@@ -147,10 +147,12 @@ class UserProfile extends Component {
                     <div className="clearfix" />
                   </form>
                 }
-              />
+              /> */}
+              <img src="https://yuno.finance/images/y.png"></img>
             </Col>
             <Col md={4}>
-              <UserCard
+              <b>COMMING SOON!</b>
+              {/* <UserCard
                 bgImage="https://ununsplash.imgix.net/photo-1431578500526-4d9613015464?fit=crop&fm=jpg&h=300&q=75&w=400"
                 avatar={avatar}
                 name="Mike Andrew"
@@ -177,7 +179,7 @@ class UserProfile extends Component {
                     </Button>
                   </div>
                 }
-              />
+              /> */}
             </Col>
           </Row>
         </Grid>

@@ -64,8 +64,7 @@ class Admin extends Component {
       title: <span data-notify="icon" className="pe-7s-gift" />,
       message: (
         <div>
-          Welcome to <b>Light Bootstrap Dashboard</b> - a beautiful freebie for
-          every web developer.
+          Welcome to <b>Stackbow Dashboard</b> - you need to add holder address into url to see the balance.
         </div>
       ),
       level: level,
@@ -146,8 +145,7 @@ class Admin extends Component {
       title: <span data-notify="icon" className="pe-7s-gift" />,
       message: (
         <div>
-          Welcome to <b>Light Bootstrap Dashboard</b> - a beautiful freebie for
-          every web developer.
+          Welcome to <b>Stackbow Dashboard</b> - you need to add holder address to url to see the balance.
         </div>
       ),
       level: level,
