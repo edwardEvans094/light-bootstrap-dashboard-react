@@ -41,10 +41,10 @@ class Footer extends Component {
           </nav>
           <p className="copyright pull-right">
             &copy; {new Date().getFullYear()}{" "}
-            <a href="http://www.creative-tim.com?ref=lbr-footer">
-              Creative Tim
+            <a href="https://vnexpress.net/thang-100-trieu-voi-he-thong-gay-quy-minh-bach-bang-blockchain-3848638.html">
+              Blarity Team
             </a>
-            , made with love for a better web
+            , made with love for a better farm
           </p>
         </Grid>
       </footer>
